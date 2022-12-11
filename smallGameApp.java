@@ -1,5 +1,8 @@
 import com.almasb.fxgl.app.GameApplication;
 import com.almasb.fxgl.app.GameSettings;
+
+import javafx.application.Application;
+
 import static util.config.*;
 
 public class smallGameApp extends GameApplication {
