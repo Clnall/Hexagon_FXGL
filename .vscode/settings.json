@@ -1,0 +1,6 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\chrisln\\Documents\\GitHub\\Megagantic\\lib\\fxgl-17.2-uber.jar"
+    ]
+}
