@@ -1,8 +1,6 @@
 import com.almasb.fxgl.app.GameApplication;
 import com.almasb.fxgl.app.GameSettings;
 
-import javafx.application.Application;
-
 import static util.config.*;
 
 public class smallGameApp extends GameApplication {
@@ -13,6 +11,12 @@ public class smallGameApp extends GameApplication {
         settings.setHeight(WINDOW_HEIGHT);
         settings.setTitle("SMALL game");
         settings.setVersion("420.69.0");
+        settings.setMainMenuEnabled(true);
+        
+    }
+
+    private void initBackground() {
+
     }
 
     public static void main(String[] args) {
